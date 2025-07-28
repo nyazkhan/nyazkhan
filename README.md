@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 About Me 
 - 👨 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Senior Software Engineer</strong> at [Zopsmart](https://zopsmart.com/).
-- 📋 I've previously worked as a Software Engineer at [Robosoft Technologies Pvt Ltd](https://www.robosoftin.com/)
+- 💼 I’m currently working as a <strong>Senior Software Engineer</strong> at [Zango.ai](https://zongo.ai/).
+- 📋 I've previously worked as a Software Engineer at[Zopsmart](https://zopsmart.com/).
 - 👩🏻‍🏫 I love teaching students and have mentored across 100+ freshers in my current and previous company.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
